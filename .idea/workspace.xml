@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aaee514-69a9-4658-b6d0-b99b288e2bea" name="Changes" comment="inicia projeto SuperMarket">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/Mercado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/modelo/Produto.java" afterDir="false" />
+    <list default="true" id="8aaee514-69a9-4658-b6d0-b99b288e2bea" name="Changes" comment="implementa classe Produto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Mercado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Mercado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Mercado">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="SuperMarket" />
@@ -56,8 +55,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Mercado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Mercado" />
+      <module name="SuperMarket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mercado" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -85,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682559701096</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="implementa classe Produto">
+      <created>1682560996567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682560996567</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inicia projeto SuperMarket" />
-    <option name="LAST_COMMIT_MESSAGE" value="inicia projeto SuperMarket" />
+    <MESSAGE value="implementa classe Produto" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementa classe Produto" />
   </component>
 </project>
